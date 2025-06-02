@@ -2,7 +2,7 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>W:\Code\c++\Lessons\miniGame\guess the number\x64\Debug\guess the number.exe</FullPath>
+      <FullPath>W:\Code\Cpp\Game\guess the number\x64\Debug\guess the number.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />

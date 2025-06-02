@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "W:\\Code\\Cpp\\Game\\TankBattleCity\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DB9BAA26-ACD6-4AEF-A819-13A98EFFC0BA}|TankBattleCity.vcxproj|W:\\Code\\Cpp\\Game\\TankBattleCity\\TankBattleCity.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DB9BAA26-ACD6-4AEF-A819-13A98EFFC0BA}|TankBattleCity.vcxproj|solutionrelative:TankBattleCity.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TankBattleCity.cpp",
+              "DocumentMoniker": "W:\\Code\\Cpp\\Game\\TankBattleCity\\TankBattleCity.cpp",
+              "RelativeDocumentMoniker": "TankBattleCity.cpp",
+              "ToolTip": "W:\\Code\\Cpp\\Game\\TankBattleCity\\TankBattleCity.cpp",
+              "RelativeToolTip": "TankBattleCity.cpp",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAAAPoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-04T11:22:39.786Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
